@@ -2,7 +2,8 @@
 <h1 align="center">Hi There👋, I'm Andrean Gusman Djabbar</h1>
 <h3 align="center">Passionate About Technology | Backend Enthusiast & Aspiring Full Stack Developer 🚀</h3>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" href="https://www.instagram.com/andreandjbbr/"  />
+  <img 
+    src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"         href="https://www.instagram.com/andreandjbbr/"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" href="discordapp.com/users/634345736514961448"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" href="https://www.linkedin.com/in/andrean-gusman-djabbar/"  />
 </div>
