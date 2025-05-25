@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://andreandjabbar-portfolio.vercel.app/](https://andreandjabbar-portfolio.vercel.app/)
+- 👨‍💻 Check my portfolio are available at [https://andreandjabbar.vercel.app/](https://andreandjabbar-portfolio.vercel.app/)
 
 - 💬 Ask me about **Web Development, Backend Development**
 
