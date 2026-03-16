@@ -1,6 +1,6 @@
 [![MasterHead](https://pic.surf/9q6)](https://rishavchanda.io)
 <h1 align="center">Hi There👋, I'm Andrean Gusman Djabbar</h1>
-<h3 align="center">Passionate About Technology | Backend Enthusiast & Aspiring Full Stack Developer 🚀</h3>
+<h3 align="center">Full Stack Developer 🚀</h3>
 <div align="center">
   <a href="https://www.instagram.com/andreandjbbr/" target="_blank">
     <img 
